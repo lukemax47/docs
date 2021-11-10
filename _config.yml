@@ -55,6 +55,7 @@ collections:
   Tutorials:
     permalink: "/:Tutorials/:path/"
     output: true    
+collections_dir: _docs    
     
 just_the_docs:
   collections:
@@ -66,8 +67,6 @@ just_the_docs:
       name: APIs
     Tutorials:
       name: Tutorials
-
-collections_dir: _docs
 
 
 # Footer content
