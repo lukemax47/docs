@@ -1,3 +1,11 @@
+---
+layout: default
+title: API Reference
+nav_order: 8
+parent: WASM Overview
+has_children: false
+---
+
 ### createTransaction
 
 ```javascript

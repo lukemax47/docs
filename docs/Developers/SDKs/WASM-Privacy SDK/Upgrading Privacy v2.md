@@ -1,3 +1,11 @@
+---
+layout: default
+title: Upgrading Privacy v2
+nav_order: 6
+parent: WASM Overview
+has_children: false
+---
+
 ## Upgrading to Privacy v2
 
 ### Converting your PRV coins

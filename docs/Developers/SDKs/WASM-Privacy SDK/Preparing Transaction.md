@@ -1,3 +1,11 @@
+---
+layout: default
+title: Preparing for a Transaction
+nav_order: 3
+parent: WASM Overview
+has_children: false
+---
+
 ## Parameters
 
 Unlike the previous version, `privacy.wasm` now uses one unified function, `createTransaction`, for creating transactions.

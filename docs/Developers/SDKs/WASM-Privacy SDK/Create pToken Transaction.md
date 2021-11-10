@@ -1,3 +1,11 @@
+---
+layout: default
+title: Creating pToken Transaction
+nav_order: 5
+parent: WASM Overview
+has_children: false
+---
+
 ## Creating a pToken Transaction
 
 ### The *TokenParams* attribute

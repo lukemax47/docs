@@ -1,3 +1,12 @@
+---
+layout: default
+title: Begin
+nav_order: 1
+parent: WASM Overview
+has_children: false
+---
+
+
 ## Introduction
 
 The WASM binary provides a basic set of functions for non-fullnode clients to perform privacy operations relevant to Incognito Chain. It comes with Incognito's Javascript Wallet API. Together they aim to provide an alternative to running one's own node and sending your keys to its RPC.

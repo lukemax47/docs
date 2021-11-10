@@ -1,3 +1,11 @@
+---
+layout: default
+title: Creating a Transaction
+nav_order: 4
+parent: WASM Overview
+has_children: false
+---
+
 ### Formatting Parameter
 
 Functions in `privacy.wasm` **must** take a callback at the end. You can promisify them by doing something like

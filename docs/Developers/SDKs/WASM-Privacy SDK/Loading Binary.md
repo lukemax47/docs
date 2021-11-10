@@ -1,3 +1,11 @@
+---
+layout: default
+title: Loading Binary
+nav_order: 2
+parent: WASM Overview
+has_children: false
+---
+
 Since it was built on Go, the binary requires that you preload the `wasm_exec.js` library file that comes with your Go instance. You can find out more on how to locate it [here](https://github.com/golang/go/wiki/WebAssembly#getting-started).
 
 ## The Go-WASM namespace

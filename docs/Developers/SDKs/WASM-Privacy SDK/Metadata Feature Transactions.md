@@ -1,3 +1,11 @@
+---
+layout: default
+title: Creating Feature Transactions Using Metadata
+nav_order: 7
+parent: WASM Overview
+has_children: false
+---
+
 ### The metadata parameter
 
 Transferring tokens is not the only thing you can do in Incognito chain. You can become a validator to earn rewards, shield / unshield your coins to and from other chains, swap your `pTokens` permissionlessly, etc...
