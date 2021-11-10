@@ -33,7 +33,7 @@ The Bond smart contract glues together Incognito, custodians, and other cryptone
 
 The first implementation is programmed as an Ethereum smart contract [[Wood, 2014]](https://ethereum.github.io/yellowpaper/paper.pdf). We chose Ethereum because its smart contract platform is battle-tested and it has many liquid cryptoassets that are suitable collateral types.
 
-![image%20(18)|690x491](upload://rKnHA9S3PP4sDgtujmx7HUGnFqA.png) 
+!(https://we.incognito.org/uploads/default/original/1X/c278ebf8d45eca79c508e9f665b0cf79753a863c.png) 
 *Figure 1. The Bond smart contract is programmed to glue together custodians, Incognito, and other cryptonetworks like Bitcoin and Binance Chain.*
 
 The Bond smart contract is programmed to:
@@ -75,6 +75,6 @@ Second, custodians also earn PRV, the native coin of Incognito, through shield m
 
 The shield mining reward ***r<sub>i</sub>*** for a custodian ***c<sub>i</sub>*** at block height ***k***, is computed as follows, where ***R<sub>k</sub>*** is the total shield mining reward for that block, ***n*** is the number of custodians, and ***b<sub>i</sub>*** is the bonded collateral value from custodian ***c<sub>i</sub>*** .
 
-![381x130,50%](upload://4wP4d2wmegE8LYMWoQhe7PazOi.png)  
+![381x130,50%](https://we.incognito.org/uploads/default/original/1X/008312d0d08c23febab066a0310a6707ca8f04ba.png)  
 
 We have proposed a decentralized approach to custodianship. While this mechanism is designed for Incognito specifically, we hope that the community will find this design helpful and expand upon it to build more fully-decentralized systems of custodians.
