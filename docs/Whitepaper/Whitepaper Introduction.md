@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Whitepaper
+title: Whitepaper Introduction
 nav_order: 1
 parent: Whitepaper Overview
 ---
