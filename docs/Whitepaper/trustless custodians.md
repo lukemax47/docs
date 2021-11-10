@@ -33,7 +33,7 @@ The Bond smart contract glues together Incognito, custodians, and other cryptone
 
 The first implementation is programmed as an Ethereum smart contract [[Wood, 2014]](https://ethereum.github.io/yellowpaper/paper.pdf). We chose Ethereum because its smart contract platform is battle-tested and it has many liquid cryptoassets that are suitable collateral types.
 
-!(https://we.incognito.org/uploads/default/original/1X/c278ebf8d45eca79c508e9f665b0cf79753a863c.png) 
+![](https://we.incognito.org/uploads/default/original/1X/c278ebf8d45eca79c508e9f665b0cf79753a863c.png) 
 *Figure 1. The Bond smart contract is programmed to glue together custodians, Incognito, and other cryptonetworks like Bitcoin and Binance Chain.*
 
 The Bond smart contract is programmed to:
