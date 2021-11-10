@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Whitepaper Overview
+title: Quickstart Overview
 nav_order: 1
 has_children: true
 ---
