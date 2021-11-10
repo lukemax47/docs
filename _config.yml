@@ -67,7 +67,7 @@ just_the_docs:
     Tutorials:
       name: Tutorials
 
-collections_dir: /_docs
+collections_dir: _docs
 
 
 # Footer content
