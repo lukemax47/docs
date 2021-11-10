@@ -15,7 +15,7 @@ We implement sharding on privacy transactions to increase throughput for Incogni
 
 Incognito is designed as a network of blockchains. It has a single beacon chain (the “coordinator”) and N shard chains (the “workers”), which produce blocks in parallel. All shards work in parallel and are synchronized by beacon block time, which is divided into equal epochs.
 
-![image%20(20)|682x364](https://we.incognito.org/uploads/default/original/1X/45b6122ba6a1272f12f9e9663c076e999234a75d.jpeg) 
+![](https://we.incognito.org/uploads/default/original/1X/45b6122ba6a1272f12f9e9663c076e999234a75d.jpeg) 
 
 *Figure 1. Sharding on privacy transactions. Incognito throughput scales out linearly with the number of shards.*
 
@@ -25,7 +25,7 @@ Shards are organized by the last byte of sender addresses. Each shard has its ow
 
 Every time a shard block is created, the beacon committee will verify and insert the valid block header into the beacon chain. If the block is not valid, the beacon will send the proof to all other shards, to vote to slash the misbehaving shard committee.
 
-![image%20(21)|682x462](https://we.incognito.org/uploads/default/original/1X/ba76e19c187dc623376c526849c20baf7785ec75.jpeg) 
+![](https://we.incognito.org/uploads/default/original/1X/ba76e19c187dc623376c526849c20baf7785ec75.jpeg) 
 
 *Figure 2. Shard Chains*
 
@@ -43,7 +43,7 @@ The responsibility of the beacon chain is to verify shard blocks and coordinate 
 
 For cross-shard transactions, the sender shard creates a receipt containing all transactions to the receiver shard, then sends this receipt to the receiver shard. A brief of cross-shard transactions is also sent to the beacon chain. The UTXOs in the sender shard are locked to make sure they cannot be double-spent. The receiver shard checks the validity of the receipt and waits for confirmation of cross-shard info from the beacon chain, before approving the corresponding UTXOs as spendable.
 
-![|611x243](https://lh4.googleusercontent.com/YjRFVQITvpmkhIpW_4KfRFccTaqS9Iig6qI-j8qT8vVS5xph_CWNHW4KSbgEBJ--C5epfcTN5Os7twEl32x2cBpSprYi4LBP_6K2GtaXHuS3ar3vY_KGBGLLi86hK4fuBVgUDFYq)
+![](https://lh4.googleusercontent.com/YjRFVQITvpmkhIpW_4KfRFccTaqS9Iig6qI-j8qT8vVS5xph_CWNHW4KSbgEBJ--C5epfcTN5Os7twEl32x2cBpSprYi4LBP_6K2GtaXHuS3ar3vY_KGBGLLi86hK4fuBVgUDFYq)
 
 *Figure 3. Cross shard transaction.*
 
@@ -68,7 +68,7 @@ Incognito chain is initially implemented with 8 shards. The number of shards cou
 
 Every shard has a maximum (M) of committee members. When the substitute list of all shards is greater than 5M, the chain will double the number of shards. In this case, each shard will be split into two 2 new shards, as per the scheme in Figure 4:
 
-Figure 4. Increasing shards![|653x241](https://lh6.googleusercontent.com/yyS-wtwAHTuP_bYdgW6sxZr-q2ENwo-mhRzprz5QJDzKteZfq679SPfGxWxHSxqdaYLBHupBQFWaZWfWVKb_9CMZ312wKMXfTiYOYribTrHBTwlinpIDMo8lVv199xaKFOdALSeJ)
+Figure 4. Increasing shards![](https://lh6.googleusercontent.com/yyS-wtwAHTuP_bYdgW6sxZr-q2ENwo-mhRzprz5QJDzKteZfq679SPfGxWxHSxqdaYLBHupBQFWaZWfWVKb_9CMZ312wKMXfTiYOYribTrHBTwlinpIDMo8lVv199xaKFOdALSeJ)
 
 Example:
 
@@ -93,11 +93,11 @@ Let n be the size of the committee
 Let X be the number of byzantine validators in a committee
 
 Then the probability of k byzantine validators in the committee of a shard, where 0<= k <= B, is
-![|290x88](https://lh5.googleusercontent.com/SLsDsh8AMrFr59WJavGDzT4ZsXmqaP56MUNc3kcV1DVeD0qDwjruShK0PL44UNvjYJnzPeRgeYST-3C7kIFNeK476S8fdhM4X2IH4WjlYp68Gwmq3Vtgyh0oMmHhGA-QO2HaohM5)
+![](https://lh5.googleusercontent.com/SLsDsh8AMrFr59WJavGDzT4ZsXmqaP56MUNc3kcV1DVeD0qDwjruShK0PL44UNvjYJnzPeRgeYST-3C7kIFNeK476S8fdhM4X2IH4WjlYp68Gwmq3Vtgyh0oMmHhGA-QO2HaohM5)
 and, the probability of >=k byzantine validators in the committee of a shard is
-![|406x77](https://lh5.googleusercontent.com/kiIbimWEtACp1TtZGJZWe7kFygp4kj_CYJrh1qX5_Batd2M6xp-clkDwP1MjCYcLhZMQB-vhFOsb1q0rmD_TMcqwWPZX8Yz3pEcWTInQk7P5y6ZrxUcM6M_zmZXvXiQdOoNPHNIX)
+![](https://lh5.googleusercontent.com/kiIbimWEtACp1TtZGJZWe7kFygp4kj_CYJrh1qX5_Batd2M6xp-clkDwP1MjCYcLhZMQB-vhFOsb1q0rmD_TMcqwWPZX8Yz3pEcWTInQk7P5y6ZrxUcM6M_zmZXvXiQdOoNPHNIX)
 Let S be the number of shards. As an attacker needs to conquer at least ⅔ of shards in order to conquer the chain, probability is
-![|217x54](https://lh4.googleusercontent.com/cZBqeWkGZaOYX1PBk-DOaGSxlDZJD1phQM-kN-Rc5wx_a-NqnHyamupL2ZzNpZ8d_M7zwSXV6YT1R1XBbhdiMyKjhatHi1T6qq2Phvfy2xg3WwG_ADurmZ2Isy_G-Yg0RDBSBC3J)
+![](https://lh4.googleusercontent.com/cZBqeWkGZaOYX1PBk-DOaGSxlDZJD1phQM-kN-Rc5wx_a-NqnHyamupL2ZzNpZ8d_M7zwSXV6YT1R1XBbhdiMyKjhatHi1T6qq2Phvfy2xg3WwG_ADurmZ2Isy_G-Yg0RDBSBC3J)
 
 For example, let’s look at a scenario where there are 8 shards, a committee size of 50, and 200 nodes in the substitute list. Table 1 summarizes the probability of conquering the chain, given the percentage of nodes owned by the attacker.
 
@@ -114,7 +114,7 @@ The probability of conquering the chain is extremely low, even if an individual 
 
 The implementation is mainly in the *Blockchain* component in the Incognito architecture.  
 
-![image%20(25)|599x990](https://we.incognito.org/uploads/default/original/1X/c71f04a76c6b78038a9e54b55fe9d670fbfd28d7.png) 
+![](https://we.incognito.org/uploads/default/original/1X/c71f04a76c6b78038a9e54b55fe9d670fbfd28d7.png) 
 
 *Figure 5. The layered Incognito architecture.*
 
