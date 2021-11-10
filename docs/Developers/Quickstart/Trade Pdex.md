@@ -1,3 +1,11 @@
+---
+layout: default
+title: Trade pDEX
+nav_order: 6
+parent: Quickstart
+has_children: false
+---
+
 This is a quick example to use the SDK to make a request trade on Pdex.
 
 **Note:** This transaction will not have privacy, do NOT try with your master wallet.

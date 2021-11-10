@@ -1,3 +1,11 @@
+---
+layout: default
+title: Golang SDK v2
+nav_order: 2
+parent: SDK Overview
+has_children: false
+---
+
 ### Introduction
 
 This project serves as a general Software Design Kit (SDK) for anyone wanting to develop Incognito applications using the Go programming language. You will be able to perform general operations such as querying, creating and submitting transactions, etc.

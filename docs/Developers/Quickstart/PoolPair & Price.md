@@ -1,3 +1,11 @@
+---
+layout: default
+title: PoolPair & Price
+nav_order: 7
+parent: Quickstart
+has_children: false
+---
+
 This tutorial is to help calculate the price of a pToken.
 
 #### Get BeaconHeight

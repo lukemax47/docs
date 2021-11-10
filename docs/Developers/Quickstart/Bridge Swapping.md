@@ -1,3 +1,11 @@
+---
+layout: default
+title: Bridge Swapping
+nav_order: 8
+parent: Quickstart
+has_children: false
+---
+
 #### How to swap pCoin <=> Coin. Tutorial will make an app using Goland SDK.
 
 For this example, we will be using the bridge to trade BTC to pBTC.
