@@ -2,7 +2,7 @@
 layout: default
 title: WASM Overview
 nav_order: 1
-parent: SDK Overview
+parent: Developers Overview
 has_children: true
 ---
 

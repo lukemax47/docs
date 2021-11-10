@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Golang SDK v2
-nav_order: 2
-parent: SDK Overview
+nav_order: 1
+parent: Developers Overview
 has_children: false
 ---
 
