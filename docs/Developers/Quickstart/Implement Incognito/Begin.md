@@ -1,3 +1,11 @@
+---
+layout: default
+title: Begin
+nav_order: 1
+parent: Implement Incognito
+has_children: false
+---
+
 ### Nodejs-SDK-v2
 
 Official Incognito nodejs SDK can be downloaded and implemented from here:

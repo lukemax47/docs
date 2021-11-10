@@ -1,3 +1,11 @@
+---
+layout: default
+title: Go SDK
+nav_order: 3
+parent: Implement Incognito
+has_children: false
+---
+
 Package go-incognito-sdk is a tutorial on inegrating with the Incognito Chain.
 
 #### Installation

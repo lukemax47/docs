@@ -1,3 +1,11 @@
+---
+layout: default
+title: Begin
+nav_order: 4
+parent: Quickstart Overview
+has_children: false
+---
+
 ## React-Native Mobile
 
 We recommend this section for advance develop, whois want to re-build incognito-wallet.
