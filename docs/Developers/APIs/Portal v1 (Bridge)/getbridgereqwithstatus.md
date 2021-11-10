@@ -1,3 +1,11 @@
+---
+layout: default
+title: getbridgereqwithstatus
+nav_order: 6
+parent: Portal
+has_children: false
+---
+
 ### getbridgereqwithstatus
 
 Get bridge request status

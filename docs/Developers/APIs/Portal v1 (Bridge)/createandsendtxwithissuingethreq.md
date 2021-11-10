@@ -1,3 +1,11 @@
+---
+layout: default
+title: createandsendtxwithissuingethreq
+nav_order: 4
+parent: Portal
+has_children: false
+---
+
 ### createandsendtxwithissuingethreq
 
 Issue trustless bridge token

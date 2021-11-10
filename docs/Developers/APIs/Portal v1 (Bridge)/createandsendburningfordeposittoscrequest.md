@@ -1,3 +1,11 @@
+---
+layout: default
+title: createandsendburningfordeposittoscrequest
+nav_order: 1
+parent: Portal
+has_children: false
+---
+
 ### createandsendburningfordeposittoscrequest
 
 Burning pToken to split amount eth/erc-20 in smart contract

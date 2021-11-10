@@ -1,3 +1,11 @@
+---
+layout: default
+title: getbridgeswapproof
+nav_order: 8
+parent: Portal
+has_children: false
+---
+
 ### getbridgeswapproof
 
 Parameters

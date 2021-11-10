@@ -1,3 +1,11 @@
+---
+layout: default
+title: getlatestbridgeswapproof
+nav_order: 9
+parent: Portal
+has_children: false
+---
+
 Parameters
 
 Example

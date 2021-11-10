@@ -1,3 +1,11 @@
+---
+layout: default
+title: createandsendcontractingrequest
+nav_order: 3
+parent: Portal
+has_children: false
+---
+
 ### createandsendcontractingrequest
 
 BRD - withdraw centralized bridged tokens

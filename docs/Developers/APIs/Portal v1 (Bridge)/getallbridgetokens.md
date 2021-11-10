@@ -1,3 +1,11 @@
+---
+layout: default
+title: getallbridgetokens
+nav_order: 7
+parent: Portal
+has_children: false
+---
+
 ### getallbridgetokens
 
 List all bridge token

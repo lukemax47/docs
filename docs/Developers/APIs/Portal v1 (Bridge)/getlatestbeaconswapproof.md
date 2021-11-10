@@ -1,3 +1,11 @@
+---
+layout: default
+title: getlatestbeaconswapproof
+nav_order: 11
+parent: Portal
+has_children: false
+---
+
 ### getlatestbeaconswapproof
 
 Parameters

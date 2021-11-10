@@ -1,3 +1,11 @@
+---
+layout: default
+title: createandsendburningrequest
+nav_order: 2
+parent: Portal
+has_children: false
+---
+
 ### createandsendburningrequest
 
 BRD - withdraw decentralized bridged tokens (eth, erc20) to eth address

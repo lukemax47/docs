@@ -1,3 +1,11 @@
+---
+layout: default
+title: createandsendissuingrequest
+nav_order: 5
+parent: Portal
+has_children: false
+---
+
 ### createandsendissuingrequest
 
 Issue trusted bridge token
