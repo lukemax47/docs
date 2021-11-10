@@ -1,3 +1,11 @@
+---
+layout: default
+title: createandsendtxwithpdefeewithdrawalreq
+nav_order: 7
+parent: pDEX
+has_children: false
+---
+
 ### createandsendtxwithpdefeewithdrawalreq
 
 Withdraw trading fees from pDEX

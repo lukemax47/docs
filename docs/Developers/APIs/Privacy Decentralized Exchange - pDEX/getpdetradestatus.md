@@ -1,3 +1,11 @@
+---
+layout: default
+title: getpdetradestatus
+nav_order: 5
+parent: pDEX
+has_children: false
+---
+
 ### getpdetradestatus
 
 Status - trade pDex status

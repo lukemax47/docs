@@ -1,3 +1,11 @@
+---
+layout: default
+title: getpdewithdrawalstatus
+nav_order: 4
+parent: pDEX
+has_children: false
+---
+
 ### getpdewithdrawalstatus
 
 Status - withdrawal pDex

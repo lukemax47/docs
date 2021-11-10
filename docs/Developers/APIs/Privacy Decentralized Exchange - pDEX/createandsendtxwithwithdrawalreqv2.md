@@ -1,3 +1,11 @@
+---
+layout: default
+title: createandsendtxwithwithdrawalreqv2
+nav_order: 8
+parent: pDEX
+has_children: false
+---
+
 ## createandsendtxwithwithdrawalreqv2 
 ### Remove liquidity from pDEX
 ___

@@ -1,4 +1,12 @@
-createandsendtxwithptokencontributionv2
+---
+layout: default
+title: createandsendtxwithptokencontributionv2
+nav_order: 11
+parent: pDEX
+has_children: false
+---
+
+### createandsendtxwithptokencontributionv2
 
 Provide liquidity to pDEX (pToken side)
 ### Parameters

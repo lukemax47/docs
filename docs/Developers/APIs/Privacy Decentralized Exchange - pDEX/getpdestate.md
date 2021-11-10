@@ -1,3 +1,11 @@
+---
+layout: default
+title: getpdestate
+nav_order: 6
+parent: pDEX
+has_children: false
+---
+
 ### getpdestate
 
 Get pDEX state

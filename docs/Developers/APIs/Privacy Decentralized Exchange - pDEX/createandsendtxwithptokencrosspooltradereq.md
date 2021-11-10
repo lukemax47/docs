@@ -1,3 +1,11 @@
+---
+layout: default
+title: createandsendtxwithptokencrosspooltradereq
+nav_order: 9
+parent: pDEX
+has_children: false
+---
+
 ## createandsendtxwithptokencrosspooltradereq
 ### Trade pToken for PRV or other pToken
 ---

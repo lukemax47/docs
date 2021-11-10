@@ -1,3 +1,11 @@
+---
+layout: default
+title: createandsendtxwithprvcontributionv2
+nav_order: 12
+parent: pDEX
+has_children: false
+---
+
 ### createandsendtxwithprvcontributionv2
 ### Provide liquidity to pDEX (PRV side)
 ---

@@ -1,3 +1,11 @@
+---
+layout: default
+title: getpdecontributionstatusv2
+nav_order: 3
+parent: pDEX
+has_children: false
+---
+
 ### getpdecontributionstatusv2
 
 Status - contribution pDex
