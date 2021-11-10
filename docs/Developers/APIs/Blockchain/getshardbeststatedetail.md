@@ -1,3 +1,11 @@
+---
+layout: default
+title: getshardbeststatedetail
+nav_order: 4
+parent: Blockchain
+has_children: false
+---
+
 ### getshardbeststatedetail
 ---
 ### Parameters

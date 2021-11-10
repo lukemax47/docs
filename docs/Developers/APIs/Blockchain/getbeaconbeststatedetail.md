@@ -1,3 +1,11 @@
+---
+layout: default
+title: getbeaconbeststatedetail
+nav_order: 5
+parent: Blockchain
+has_children: false
+---
+
 ### getbeaconbeststatedetail
 ---
 ### Parameters

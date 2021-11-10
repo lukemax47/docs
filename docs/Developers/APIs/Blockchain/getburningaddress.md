@@ -1,3 +1,11 @@
+---
+layout: default
+title: getburningaddress
+nav_order: 1
+parent: Blockchain
+has_children: false
+---
+
 ### getburningaddress
 ---
 ### Parameters

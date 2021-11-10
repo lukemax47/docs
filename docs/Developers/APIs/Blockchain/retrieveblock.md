@@ -1,3 +1,11 @@
+---
+layout: default
+title: retrieveblock
+nav_order: 7
+parent: Blockchain
+has_children: false
+---
+
 ### retrieveblock
 ---
 ### Parameters

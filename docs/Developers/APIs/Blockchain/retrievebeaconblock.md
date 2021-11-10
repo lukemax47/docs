@@ -1,3 +1,11 @@
+---
+layout: default
+title: retrievebeaconblock
+nav_order: 8
+parent: Blockchain
+has_children: false
+---
+
 ### retrievebeaconblock
 ---
 ### Parameters

@@ -1,3 +1,11 @@
+---
+layout: default
+title: getblockchaininfo
+nav_order: 9
+parent: Blockchain
+has_children: false
+---
+
 ### getblockchaininfo
 ---
 ### Parameters
