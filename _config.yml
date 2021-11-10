@@ -2,7 +2,7 @@
 remote_theme: pmarsceill/just-the-docs
 
 # Logo at top left
-logo: "/assets/Logo.png"
+logo: "_assets/Logo.png"
 
 
 # Enable or disable the site search
