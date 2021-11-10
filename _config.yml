@@ -61,6 +61,7 @@ just_the_docs:
   collections:
     Quickstart:
       name: Quickstart
+      permalink: "/:_docs/Quickstart/:path/"
     SDKs:
       name: SDKs
     APIs:
