@@ -44,16 +44,16 @@ color_scheme: dark
 
 collections:
   Quickstart:
-    permalink: "/:collection/:path/"
+    permalink: "/:Quickstart/:path/"
     output: true
   SDKs:
-    permalink: "/:collection/:path/"
+    permalink: "/:SDKs/:path/"
     output: true
   APIs:
-    permalink: "/:collection/:path/"
+    permalink: "/:APIs/:path/"
     output: true
   Tutorials:
-    permalink: "/:collection/:path/"
+    permalink: "/:Tutorials/:path/"
     output: true    
     
 just_the_docs:
