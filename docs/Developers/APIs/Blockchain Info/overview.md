@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Portal
-nav_order: 1
+title: Blockchain Info
+nav_order: 6
 parent: API Overview
 has_children: true
 ---

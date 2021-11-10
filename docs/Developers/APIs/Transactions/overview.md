@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Portal
-nav_order: 1
+title: Transactions
+nav_order: 4
 parent: API Overview
 has_children: true
 ---
