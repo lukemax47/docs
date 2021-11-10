@@ -1,3 +1,11 @@
+---
+layout: default
+title: Send Native Token (PRV)
+nav_order: 3
+parent: Introductory Overview
+has_children: false
+---
+
 After setup and init project, this is the next step to create an example.
 
 How to use account instance to send (PRV) the native token.

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Beginner Create App
+nav_order: 2
+parent: Introductory Overview
+has_children: false
+---
+
 ## Create React App
 
 ```bash

@@ -1,7 +1,8 @@
 ---
 layout: default
-title: SDK Overview
-nav_order: 1
+title: Introductory Overview
+parent: Quickstart Overview
+nav_order: 2
 has_children: true
 ---
 

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Send Custom Privacy Token
+nav_order: 4
+parent: Introductory Overview
+has_children: false
+---
+
 How to use Account instance to send a custom token. 
 
 Step 1: Import and Follow Token ID for the Account 
