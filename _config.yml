@@ -55,6 +55,7 @@ collections:
   Tutorials:
     permalink: "/:collection/:path/"
     output: true    
+    
 just_the_docs:
   collections:
     Quickstart:
