@@ -44,7 +44,7 @@ color_scheme: dark
 
 collections:
   Quickstart:
-    permalink: "/:Quickstart/:path/"
+    permalink: "/:_docs/Quickstart/:path/"
     output: true
   SDKs:
     permalink: "/:SDKs/:path/"
