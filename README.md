@@ -1,4 +1,4 @@
-![Incognito Logo](/_assets/Logo.png)
+![Incognito Logo](https://github.com/lukemax47/docs/blob/main/_assets/Logo.png)
 
 ### Welcome to Incognito Docs
 #### All Incognito docs in one place
