@@ -29,7 +29,7 @@ Group formation is spontaneous. There is no group manager to reveal the identity
 
 In Incognito, a ring signature is used to authorize the spending of an Unspent Transaction Output [Nakamoto, 2008], or “UTXO” without revealing the spender’s identity. The ring consists of the actual UTXO being spent as well as its decoys, which are various random outputs from historical transactions. The actual UTXO and its decoys collectively make up the inputs of the transaction. To the public, any of these inputs could equally be the actual output being spent.
 
-![image|1258x614,50%](https://we.incognito.org/uploads/default/original/1X/8623b51cc2f13acb46d906101fd17c0d5394701b.png) 
+![1258x614](https://we.incognito.org/uploads/default/original/1X/8623b51cc2f13acb46d906101fd17c0d5394701b.png) 
 
 *Figure 2. Visualization of ring signature. The notion of ring signature was first proposed as a way of whistleblowing [Rivest et al., 2001]*
 
@@ -41,7 +41,7 @@ In a typical cryptonetwork like Bitcoin or Ethereum, a public address is all tha
 
 To avoid transaction linking, Incognito automatically creates multiple one-time public keys – one for each incoming transaction. One-time public keys, also known as stealth addresses, can be thought of as one-time deposit boxes. Only the receiver can open the box to see what is inside and spend it.
 
-![638x166](hhttps://we.incognito.org/uploads/default/original/1X/dda68b8b2437069a9f7dc611e56af8a9fd3f4959.jpeg) 
+![638x166](https://we.incognito.org/uploads/default/original/1X/dda68b8b2437069a9f7dc611e56af8a9fd3f4959.jpeg) 
 
 *Figure 3. Creating multiple unique one-time keys*
 
