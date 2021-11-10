@@ -1,11 +1,3 @@
----
-layout: default
-title: Demo Call RPC
-nav_order: 9
-parent: API Overview
-has_children: false
----
-
 ### demo call rpc
 #### Full json rpc on postmain documents
 ---
