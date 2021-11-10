@@ -54,8 +54,7 @@ collections:
     output: true
   Tutorials:
     permalink: "/:Tutorials/:path/"
-    output: true    
-collections_dir: ../_docs    
+    output: true      
     
 just_the_docs:
   collections:
