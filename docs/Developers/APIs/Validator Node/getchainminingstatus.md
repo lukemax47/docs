@@ -1,3 +1,11 @@
+---
+layout: default
+title: getchainminingstatus
+nav_order: 6
+parent: VNODE
+has_children: false
+---
+
 ### getchainminingstatus
 ---
 ### Parameters

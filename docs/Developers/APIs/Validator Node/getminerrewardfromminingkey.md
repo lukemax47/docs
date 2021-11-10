@@ -1,3 +1,11 @@
+---
+layout: default
+title: getminerrewardfromminingkey
+nav_order: 1
+parent: VNODE
+has_children: false
+---
+
 ### getminerrewardfromminingkey
 ---
 ### Parameters

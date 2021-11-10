@@ -1,3 +1,11 @@
+---
+layout: default
+title: getincognitopublickeyrole
+nav_order: 2
+parent: VNODE
+has_children: false
+---
+
 ### getincognitopublickeyrole
 ---
 ### Parameters

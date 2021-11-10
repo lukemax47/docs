@@ -1,3 +1,11 @@
+---
+layout: default
+title: getpublickeymining
+nav_order: 5
+parent: VNODE
+has_children: false
+---
+
 ### getpublickeymining
 ---
 ### Parameters

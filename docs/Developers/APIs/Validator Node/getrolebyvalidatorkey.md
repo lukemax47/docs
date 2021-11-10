@@ -1,3 +1,11 @@
+---
+layout: default
+title: getrolebyvalidatorkey
+nav_order: 3
+parent: VNODE
+has_children: false
+---
+
 ### getrolebyvalidatorkey
 ---
 ### Parameters

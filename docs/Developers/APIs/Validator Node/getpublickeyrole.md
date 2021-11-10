@@ -1,3 +1,11 @@
+---
+layout: default
+title: getpublickeyrole
+nav_order: 4
+parent: VNODE
+has_children: false
+---
+
 ### getpublickeyrole
 ---
 ### Parameters
