@@ -1,3 +1,11 @@
+---
+layout: default
+title: Transactions
+nav_order: 2
+parent: Incognito Wallet Extension Overview
+has_children: false
+---
+
 This tutorial is how to create & send transactions
 
 ### Insert Image

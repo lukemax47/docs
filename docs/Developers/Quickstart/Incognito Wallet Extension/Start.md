@@ -1,3 +1,11 @@
+---
+layout: default
+title: Begin
+nav_order: 1
+parent: Incognito Wallet Extension Overview
+has_children: false
+---
+
 #### First fetch the latest version of the example code:
 
 ```bash

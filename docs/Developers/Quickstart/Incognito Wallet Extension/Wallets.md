@@ -1,3 +1,11 @@
+---
+layout: default
+title: Wallets
+nav_order: 4
+parent: Incognito Wallet Extension Overview
+has_children: false
+---
+
 ## Wallets
 
 ### Init Account

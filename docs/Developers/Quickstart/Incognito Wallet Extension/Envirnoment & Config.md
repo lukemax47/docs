@@ -1,3 +1,11 @@
+---
+layout: default
+title: Envirnoment & Config
+nav_order: 3
+parent: Incognito Wallet Extension Overview
+has_children: false
+---
+
 # Envirnoment & Config
 
 ### Env

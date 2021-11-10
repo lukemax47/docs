@@ -1,3 +1,11 @@
+---
+layout: default
+title: Tokens
+nav_order: 5
+parent: Incognito Wallet Extension Overview
+has_children: false
+---
+
 ### Get Token Balance
 
 

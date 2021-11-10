@@ -1,7 +1,7 @@
 ---
 layout: default
-title: SDK Overview
-nav_order: 1
+title: Incognito Wallet Extension Overview
+nav_order: 3
 has_children: true
 ---
 
