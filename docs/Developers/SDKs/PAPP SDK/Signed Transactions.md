@@ -1,3 +1,11 @@
+---
+layout: default
+title: Signed Transactions
+nav_order: 2
+parent: PAPP SDK
+has_children: false
+---
+
 ### 3 Steps to have a simple pAPP
 
 #### 1. Create simple reactjs app

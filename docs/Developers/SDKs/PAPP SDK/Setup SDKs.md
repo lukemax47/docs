@@ -1,3 +1,11 @@
+---
+layout: default
+title: Setup SDKs
+nav_order: 1
+parent: PAPP SDK
+has_children: false
+---
+
 First checking github papp-sdk offical [here](https://github.com/incognitochain/papp-sdk)
 https://github.com/incognitochain/papp-sdk
 
