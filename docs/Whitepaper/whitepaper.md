@@ -1,3 +1,11 @@
+---
+layout: default
+title: Whitepaper
+nav_order: 1
+has_children: true
+permalink: /docs/Whitepaper/
+---
+
 # Introduction: A Platform of Decentralized Privacy Coins ▾
 
 Today, anyone can send BTC, ETH, and thousands of other cryptocurrencies to another party without going through a financial institution [[Nakamoto, 2008](http://www.bitcoin.org/bitcoin.pdf); [Buterin et al., 2014](https://github.com/ethereum/wiki/wiki/white-paper)]. For those who value privacy, these cryptocurrencies come with a big tradeoff. Transactions are recorded on public ledgers, displaying amounts involved, inscribing virtual identities of their senders and receivers. Given the choice, we strongly believe that very few people will willingly disclose their crypto financials to the entire world.
