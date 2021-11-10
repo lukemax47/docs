@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Whitepaper Overview
-nav_order: 1
+title: Developers Overview
+nav_order: 3
 has_children: true
 ---
 
