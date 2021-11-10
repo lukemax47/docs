@@ -1,3 +1,11 @@
+---
+layout: default
+title: getbalancebyprivatekey
+nav_order: 3
+parent: Wallet
+has_children: false
+---
+
 ### getbalancebyprivatekey
 ### Parameters
 ---

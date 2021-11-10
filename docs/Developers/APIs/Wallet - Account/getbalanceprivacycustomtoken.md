@@ -1,3 +1,11 @@
+---
+layout: default
+title: getbalanceprivacycustomtoken
+nav_order: 1
+parent: Wallet
+has_children: false
+---
+
 getbalanceprivacycustomtoken
 
 ### Parameters

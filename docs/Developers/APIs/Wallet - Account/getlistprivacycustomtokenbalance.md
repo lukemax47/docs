@@ -1,3 +1,12 @@
+---
+layout: default
+title: getlistprivacycustomtokenbalance
+nav_order: 2
+parent: Wallet
+has_children: false
+---
+
+
 ### getlistprivacycustomtokenbalance
 ### Parameters
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Portal
-nav_order: 1
+title: Wallet
+nav_order: 3
 parent: API Overview
 has_children: true
 ---

@@ -1,3 +1,11 @@
+---
+layout: default
+title: listunspentoutputcoins
+nav_order: 4
+parent: Wallet
+has_children: false
+---
+
 ### listunspentoutputcoins
 ---
 

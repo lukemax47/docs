@@ -1,3 +1,11 @@
+---
+layout: default
+title: listoutputcoins
+nav_order: 5
+parent: Wallet
+has_children: false
+---
+
 ### listoutputcoins
 ### Get list output coins by key
 ---
