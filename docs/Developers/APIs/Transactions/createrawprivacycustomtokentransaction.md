@@ -1,3 +1,11 @@
+---
+layout: default
+title: createrawprivacycustomtokentransaction
+nav_order: 7
+parent: Transactions
+has_children: false
+---
+
 ### createrawprivacycustomtokentransaction
 ### create raw privacy custom token transaction
 ---

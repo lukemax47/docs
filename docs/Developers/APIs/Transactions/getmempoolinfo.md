@@ -1,3 +1,11 @@
+---
+layout: default
+title: getmempoolinfo
+nav_order: 1
+parent: Transactions
+has_children: false
+---
+
 ### getmempoolinfo
 ### Get mempool information
 ---

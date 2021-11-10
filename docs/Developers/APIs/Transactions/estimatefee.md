@@ -1,3 +1,11 @@
+---
+layout: default
+title: estimatefeew
+nav_order: 12
+parent: Transactions
+has_children: false
+---
+
 ### estimatefee
 ### Estimate - fee for token tx
 ---

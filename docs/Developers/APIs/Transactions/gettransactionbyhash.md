@@ -1,3 +1,11 @@
+---
+layout: default
+title: gettransactionbyhash
+nav_order: 4
+parent: Transactions
+has_children: false
+---
+
 ### gettransactionbyhash
 ### Parameters
 ---

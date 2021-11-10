@@ -1,3 +1,11 @@
+---
+layout: default
+title: estimatefeewithestimator
+nav_order: 11
+parent: Transactions
+has_children: false
+---
+
 ### estimatefeewithestimator
 ### Estimate by Fee Estimator
 ---

@@ -1,3 +1,11 @@
+---
+layout: default
+title: createandsendprivacycustomtokentransaction
+nav_order: 5
+parent: Transactions
+has_children: false
+---
+
 ### createandsendprivacycustomtokentransaction
 ---
 

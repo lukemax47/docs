@@ -1,3 +1,11 @@
+---
+layout: default
+title: gettransactionbyreceiver
+nav_order: 3
+parent: Transactions
+has_children: false
+---
+
 ### gettransactionbyreceiver
 ### Get transaction be payment address key and read only key
 ---

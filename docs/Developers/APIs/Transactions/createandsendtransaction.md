@@ -1,3 +1,11 @@
+---
+layout: default
+title: createandsendtransaction
+nav_order: 8
+parent: Transactions
+has_children: false
+---
+
 ### createandsendtransaction
 ### Send PRV - Create & Send transaction PRV
 ---

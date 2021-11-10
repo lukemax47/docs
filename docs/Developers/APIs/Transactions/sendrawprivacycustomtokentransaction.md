@@ -1,3 +1,11 @@
+---
+layout: default
+title: sendrawprivacycustomtokentransaction
+nav_order: 6
+parent: Transactions
+has_children: false
+---
+
 ### sendrawprivacycustomtokentransaction
 ### send raw privacy custom token transaction
 ---

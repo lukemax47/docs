@@ -1,3 +1,11 @@
+---
+layout: default
+title: sendrawtransaction
+nav_order: 9
+parent: Transactions
+has_children: false
+---
+
 ### sendrawtransaction
 ### Send raw PRV transaction
 ---

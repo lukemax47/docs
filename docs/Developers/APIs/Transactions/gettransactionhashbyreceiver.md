@@ -1,3 +1,11 @@
+---
+layout: default
+title: gettransactionhashbyreceiver
+nav_order: 2
+parent: Transactions
+has_children: false
+---
+
 ### gettransactionhashbyreceiver
 ### Get transaction be payment address key
 ---
