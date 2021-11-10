@@ -2,6 +2,7 @@
 layout: default
 title: Nodejs SDK v2 Overview
 nav_order: 1
+parent: SDK Overview
 has_children: true
 ---
 
