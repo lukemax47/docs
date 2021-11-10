@@ -46,13 +46,22 @@ collections:
   Quickstart:
     permalink: "/:collection/:path/"
     output: true
-  tutorials:
+  SDKs:
     permalink: "/:collection/:path/"
     output: true
-
+  APIs:
+    permalink: "/:collection/:path/"
+    output: true
+  Tutorials:
+    permalink: "/:collection/:path/"
+    output: true    
 just_the_docs:
   collections:
     Quickstart:
-      name: Documentation
-    tutorials:
+      name: Quickstart
+    SDKs:
+      name: Tutorials
+    APIs:
+      name: Tutorials
+    Tutorials:
       name: Tutorials
