@@ -1,7 +1,7 @@
 ---
 layout: default
 title: pDEX
-nav_order: 2
+nav_order: 3
 parent: API Overview
 has_children: true
 ---

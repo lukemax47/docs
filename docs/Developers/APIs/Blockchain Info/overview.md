@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blockchain Info
-nav_order: 6
+nav_order: 7
 parent: API Overview
 has_children: true
 ---
