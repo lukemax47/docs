@@ -3,7 +3,7 @@ layout: default
 title: pNode Dashboard Firmware Upgrade
 nav_order: 2
 parent: Tutorials
-has_children: true
+has_children: false
 ---
 
 # Incognito is happy to announce the release of v2.0.0 firmware for pNodes! :partying_face: 
