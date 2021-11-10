@@ -2,7 +2,7 @@
 remote_theme: pmarsceill/just-the-docs
 
 # Logo at top left
-logo: <img src="https://github.com/lukemax47/docs/blob/main/_assets/Logo.png"/>
+logo: "https://github.com/lukemax47/docs/blob/main/_assets/Logo.png"
 
 
 # Enable or disable the site search
