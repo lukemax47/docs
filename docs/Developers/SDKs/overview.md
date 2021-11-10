@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SDK Overview
+title: Developers Overview
 nav_order: 3
 has_children: true
 ---

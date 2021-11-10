@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Begin
+title: Build from Incognito Wallet
 nav_order: 4
 parent: Quickstart Overview
 has_children: false
