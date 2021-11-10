@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Begin
-nav_order: 2
-parent: Goland SDK v2
+nav_order: 1
+parent: Nodejs Overview
 has_children: false
 ---
 

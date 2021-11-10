@@ -1,3 +1,11 @@
+---
+layout: default
+title: Examples
+nav_order: 2
+parent: Nodejs Overview
+has_children: false
+---
+
 Sample implements SDK to a nodejs app
 
 ```javascript
