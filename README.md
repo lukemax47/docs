@@ -1,3 +1,5 @@
+![Incognito Logo](/_assets/Logo.png)
+
 ### Welcome to Incognito Docs
 #### All Incognito docs in one place
 
