@@ -2,7 +2,7 @@
 layout: default
 title: Shielding
 nav_order: 2
-has_children: true
+parent: Whitepaper Overview
 permalink: /docs/Whitepaper/Shielding
 ---
 
