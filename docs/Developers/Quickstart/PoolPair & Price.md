@@ -2,7 +2,7 @@
 layout: default
 title: PoolPair & Price
 nav_order: 7
-parent: Quickstart
+parent: Quickstart Overview
 has_children: false
 ---
 

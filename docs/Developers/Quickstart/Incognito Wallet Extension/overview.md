@@ -2,7 +2,7 @@
 layout: default
 title: Incognito Wallet Extension Overview
 nav_order: 3
-parent: Developers Overview
+parent: Quickstart Overview
 has_children: true
 ---
 

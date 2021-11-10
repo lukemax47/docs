@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Quickstart Overview
+title: Implement Incognito
 nav_order: 5
+parent: Quickstart Overview
 has_children: true
 ---
 

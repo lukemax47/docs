@@ -2,7 +2,7 @@
 layout: default
 title: Trade pDEX
 nav_order: 6
-parent: Quickstart
+parent: Quickstart Overview
 has_children: false
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Bridge Swapping
 nav_order: 8
-parent: Quickstart
+parent: Quickstart Overview
 has_children: false
 ---
 

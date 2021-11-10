@@ -2,7 +2,7 @@
 layout: default
 title: Portal v2 Userguide
 nav_order: 9
-parent: Quickstart
+parent: Quickstart Overview
 has_children: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Implement Incognito v2
+title: Implementing Incognito v2
 nav_order: 2
 parent: Implement Incognito
 has_children: false

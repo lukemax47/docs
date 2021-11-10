@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introductory Overview
-parent: Developers Overview
+parent: Quickstart Overview
 nav_order: 2
 has_children: true
 ---
