@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Shielding
+title: Shielding Cryptocurrencies
 nav_order: 2
 parent: Whitepaper Overview
 ---
