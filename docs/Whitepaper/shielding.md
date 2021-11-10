@@ -1,3 +1,11 @@
+---
+layout: default
+title: Shielding
+nav_order: 2
+has_children: true
+permalink: /docs/Whitepaper/Shielding
+---
+
 ### [Introduction: A Platform of Decentralized Privacy Coins ▸](https://incognito.org/t/incognito-whitepaper-incognito-mode-for-cryptonetworks/168)
 
 # Shielding any cryptocurrency into a privacy coin ▾
