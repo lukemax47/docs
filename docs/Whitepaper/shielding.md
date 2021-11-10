@@ -3,7 +3,6 @@ layout: default
 title: Shielding
 nav_order: 2
 parent: Whitepaper Overview
-permalink: /docs/Whitepaper/Shielding
 ---
 
 ### [Introduction: A Platform of Decentralized Privacy Coins ▸](https://incognito.org/t/incognito-whitepaper-incognito-mode-for-cryptonetworks/168)

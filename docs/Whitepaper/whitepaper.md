@@ -3,7 +3,6 @@ layout: default
 title: Whitepaper
 nav_order: 1
 parent: Whitepaper Overview
-permalink: /docs/Whitepaper/whitepaper
 ---
 
 # Introduction: A Platform of Decentralized Privacy Coins ▾
